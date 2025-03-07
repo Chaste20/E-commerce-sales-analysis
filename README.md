@@ -5,4 +5,8 @@ Assess YTD Sales performance across all states to identify regional trends.
 Identify the Top 5 and Bottom 5 products based on YTD Sales.
 Visualize YTD Sales by region to highlight the best and worst-performing areas nationwide.
 Determine the best-performing shipping methods by analyzing YTD Sales distribution across different shipping types.
+
+
+
+
 ![Download 1](https://github.com/user-attachments/assets/9ad92b8b-3f23-4d0f-8301-dc230ebf5356)
